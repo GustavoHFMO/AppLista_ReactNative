@@ -8,19 +8,19 @@ Aplicação desenvolvida utilizando a tecnologia React Native. Essa aplicação 
 
 # <span id="head1">1. Imagens da Aplicação<span/>
 ## 1.1. Tela Inicial
-<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/A.jpeg" width="300">
+<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/A.jpeg" width="250">
 
 ## 1.2. Escrendo um Elemento
-<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/B.jpeg" width="300">
+<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/B.jpeg" width="250">
 
 ## 1.3. Armazenando e Listando o Elemento
-<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/C.jpeg" width="300">
+<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/C.jpeg" width="250">
 
 ## 1.4. Pressionando um Elemento para Excluí-lo.
-<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/D.jpeg" width="300">
+<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/D.jpeg" width="250">
 
 ## 1.5. Atualizando a Lista de Itens
-<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/E.jpeg" width="300">
+<img src="https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/E.jpeg" width="250">
 
 # <span id="head2">2. Tecnologias<span/>
 * client
