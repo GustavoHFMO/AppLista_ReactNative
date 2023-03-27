@@ -8,7 +8,7 @@ Aplicação desenvolvida utilizando a tecnologia React Native. Essa aplicação 
 
 # <span id="head1">1. Imagens da Aplicação<span/>
 ## 1.1. Tela Inicial
-![](https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/A.jpeg)
+![](https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/A.jpeg) { width: 100px; }
 
 ## 1.2. Escrendo um Elemento
 ![](https://github.com/GustavoHFMO/AppLista_ReactNative/blob/master/client/assets/B.jpeg)
